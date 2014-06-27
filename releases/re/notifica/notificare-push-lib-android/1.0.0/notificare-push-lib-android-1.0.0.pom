@@ -11,12 +11,14 @@
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services</artifactId>
       <version>4.1.32</version>
+      <type>aar</type>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>19.1.0</version>
+      <type>aar</type>
       <scope>compile</scope>
     </dependency>
     <dependency>
